@@ -1,1 +1,1 @@
-# Alarm Clock with Python and 
+# Alarm Clock with Python, TKinter and PyGame
